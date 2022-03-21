@@ -1,0 +1,48 @@
+/* 
+    HEADER
+*/
+header .flex{
+    justify-content: flex-end;
+}
+
+header button{
+    padding: 7px;
+    margin: 2px 5px;
+    color: white;
+    background-color: #4a4a4a;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    border-radius: 7px;
+}
+/* --------------------------------------- */
+
+
+
+
+/*
+    MAIN 
+*/
+main .container{
+    
+}
+
+.user-cam{
+    margin: 5px;
+    height: 150px;
+}
+
+.user-cam img{
+    height: 100%;
+}
+/* --------------------------------------- */
+
+
+
+
+
+/*
+    FOOTER 
+*/
+
+/* --------------------------------------- */

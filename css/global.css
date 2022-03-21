@@ -3,3 +3,26 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* body{
+    background-color: black;
+} */
+
+header{
+    height: 50px;
+}
+
+main{
+    display: flex;
+    height: calc(100vh - 151px);
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+footer{
+    height: 100px;
+    background-color: #222222;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

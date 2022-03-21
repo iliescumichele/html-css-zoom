@@ -10,6 +10,7 @@
 
 .dbg-color{
     background-color: rgba(255, 167, 167, 0.568);
+    border: 1px solid black;
 }
 
 .h100{
@@ -18,5 +19,9 @@
 
 .h150{
     height: 150px;
+}
+
+.flex{
+    display: flex;
 }
 
