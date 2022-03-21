@@ -4,9 +4,9 @@
     box-sizing: border-box;
 }
 
-/* body{
+body{
     background-color: black;
-} */
+}
 
 header{
     height: 50px;
@@ -14,9 +14,10 @@ header{
 
 main{
     display: flex;
-    height: calc(100vh - 151px);
+    height: calc(100vh - 150px);
     flex-wrap: wrap;
     justify-content: center;
+    overflow: auto;
 }
 
 footer{
